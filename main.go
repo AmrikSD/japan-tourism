@@ -113,7 +113,7 @@ func updateDiscord(status string) {
 				
 
 
-				
+
 			},
 		},
 		Username:  username,
