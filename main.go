@@ -110,6 +110,10 @@ func updateDiscord(status string) {
 					URL:     authorURL,
 					IconURL: authorIcon,
 				},
+				
+
+
+				
 			},
 		},
 		Username:  username,
